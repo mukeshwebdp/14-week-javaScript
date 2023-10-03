@@ -5,4 +5,4 @@ function calculateDate(event){
 
     return eventDate-cuurentDate;
 }
-    console.log(calculateDate(`2023-09-25`));
+    console.log(`Distance date : ${calculateDate(`2023-09-25`)}`);
